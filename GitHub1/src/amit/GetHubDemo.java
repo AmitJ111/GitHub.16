@@ -4,8 +4,8 @@ public class GetHubDemo {
 
 public void m1()
 {
-	System.out.println("aaaa");
-}
+	System.out.println("2 Aug.");
+}S
 public void m2()
 {
 }
